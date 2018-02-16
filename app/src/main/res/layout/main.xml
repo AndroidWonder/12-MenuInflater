@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#ffff0000"
-        android:textSize="16dp"
+        android:textSize="26dp"
         android:gravity="center"
         android:text="Click Menu Button" />
 
