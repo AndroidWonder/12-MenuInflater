@@ -15,7 +15,7 @@ public class MenuInflaterActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-		//hide title and icon in action bar; 4/24/18
+		//hide title and icon in action bar
 		ActionBar actionBar = getActionBar();
 		actionBar.setDisplayShowTitleEnabled(false);
 		actionBar.setDisplayUseLogoEnabled(false);

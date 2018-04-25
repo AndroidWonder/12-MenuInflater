@@ -25,8 +25,5 @@
           android:showAsAction="never"
         />
 
-    <item android:id="@+id/foobar"
-        android:title="Exit"
-        android:showAsAction="never"
-    />
+
 </menu>
